@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Wilaya">
+        <item>@string/WilayaDef</item>
+        <item>1. ﻿أدرار</item>
+        <item>2. الشلف</item>
+        <item>3. الأغواط</item>
+        <item>4. أم البواقي</item>
+        <item>5. باتنة</item>
+        <item>6. بجاية</item>
+        <item>7. بسكرة</item>
+        <item>8. بشار</item>
+        <item>9. البليدة</item>
+        <item>10. البويرة</item>
+        <item>11. تمنراست</item>
+        <item>12. تبسة</item>
+        <item>13. تلمسان</item>
+        <item>14. تيارت</item>
+        <item>15. تيزي وزو</item>
+        <item>16. الجزائر</item>
+        <item>17. الجلفة</item>
+        <item>18. جيجل</item>
+        <item>19. سطيف</item>
+        <item>20. سعيدة</item>
+        <item>21. سكيكدة</item>
+        <item>22. سيدي بلعباس</item>
+        <item>23. عنابة</item>
+        <item>24. قالمة</item>
+        <item>25. قسنطينة</item>
+        <item>26. المدية</item>
+        <item>27. مستغانم</item>
+        <item>28. المسيلة</item>
+        <item>29. معسكر</item>
+        <item>30. ورقلة</item>
+        <item>31. وهران</item>
+        <item>32. البيض</item>
+        <item>33. إليزي</item>
+        <item>34. برج بوعريريج</item>
+        <item>35. بومرداس</item>
+        <item>36. الطارف</item>
+        <item>37. تندوف</item>
+        <item>38. تيسمسيلت</item>
+        <item>39. الوادي</item>
+        <item>40. خنشلة</item>
+        <item>41. سوق أهراس</item>
+        <item>42. تيبازة</item>
+        <item>43. ميلة</item>
+        <item>44. عين الدفلى</item>
+        <item>45. النعامة</item>
+        <item>46. عين تموشنت</item>
+        <item>47. غرداية</item>
+        <item>48. غليزان</item>
+    </string-array>
+</resources>

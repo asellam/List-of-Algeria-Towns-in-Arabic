@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wilayaZero">
+        <item>@string/CommuneDef</item>
+    </string-array>
+    <string-array name="W01">
+        <item>أدرار</item>
+        <item>أوقروت</item>
+        <item>أقبلي</item>
+        <item>أولف</item>
+        <item>برج باجي مختار</item>
+        <item>يودة</item>
+        <item>شروين</item>
+        <item>دلدول</item>
+        <item>فنوغيل</item>
+        <item>إن زغمير</item>
+        <item>قصر قدور</item>
+        <item>المطارفة </item>
+        <item>أولاد عيسى</item>
+        <item>أولاد السعيد </item>
+        <item>أولاد أحمد تيمي</item>
+        <item>رقان</item>
+        <item>سالي</item>
+        <item>السبع</item>
+        <item>تيمقتن</item>
+        <item>تامست</item>
+        <item>تيمياوين</item>
+        <item>تنيركوك</item>
+        <item>طالمين</item>
+        <item>تيميمون</item>
+        <item>تامنطيت</item>
+        <item>تسابيت</item>
+        <item>تيت</item>
+        <item>زاوية كنتة</item>
+    </string-array>
+    <string-array name="W02">
+        <item>أبو الحسن</item>
+        <item>عين مران</item>
+        <item>بريرة</item>
+        <item>بني بوعتاب</item>
+        <item>بني حواء</item>
+        <item>بوقادير</item>
+        <item>بنايرية</item>
+        <item>بني راشد</item>
+        <item>بوزغاية</item>
+        <item>الشلف</item>
+        <item>الشطية</item>
+        <item>الظهرة</item>
+        <item>الحجاج</item>
+        <item>الكريمية</item>
+        <item>المرسى</item>
+        <item>حرشون</item>
+        <item>الهرانفة</item>
+        <item>الأبيض مجاجة</item>
+        <item>مصدق</item>
+        <item>أولاد عباس</item>
+        <item>أولاد بن عبد القادر</item>
+        <item>أم الذروع</item>
+        <item>وادي الفضة</item>
+        <item>وادي قوسين</item>
+        <item>أولاد فارس</item>
+        <item>وادي سلي</item>
+        <item>سنجاس</item>
+        <item>سيدي عكاشة</item>
+        <item>صبحة</item>
+        <item>سيدي عبد الرحمان</item>
+        <item>تاوقريت</item>
+        <item>تاجنة</item>
+        <item>تلعصة</item>
+        <item>تنس</item>
+        <item>الزبوجة</item>
+    </string-array>
+    <string-array name="W03">
+        <item>آفلو</item>
+        <item>عين ماضي</item>
+        <item>عين سيدي علي</item>
+        <item>بن ناصر بن شهرة</item>
+        <item>بريدة</item>
+        <item>العسافية</item>
+        <item>البيضاء</item>
+        <item>الغيشة</item>
+        <item>الحوايطة</item>
+        <item>الخنق</item>
+        <item>قلتة سيدي سعد</item>
+        <item>حاسي دلاعة</item>
+        <item>الحاج المشري</item>
+        <item>حاسي الرمل</item>
+        <item>قصر الحيران</item>
+        <item>الأغواط</item>
+        <item>وادي مرة</item>
+        <item>وادي مزي</item>
+        <item>سيدي بوزيد</item>
+        <item>سبقاق</item>
+        <item>سيدي مخلوف</item>
+        <item>تاويالة</item>
+        <item>تاجموت</item>
+        <item>تاجرونة</item>
+    </string-array>
+    <string-array name="W04">
+        <item>عين البيضاء</item>
+        <item>عين بابوش</item>
+        <item>عين الديس</item>
+        <item>عين فكرون</item>
+        <item>عين الكرشة</item>
+        <item>عين مليلة</item>
+        <item>عين الزيتون</item>
+        <item>بئر الشهداء</item>
+        <item>بحير شرقي</item>
+        <item>البلالة</item>
+        <item>بريش</item>
+        <item>العامرية</item>
+        <item>الضلعة</item>
+        <item>الفجوج بوغرارة سعودي</item>
+        <item>الحرميلية</item>
+        <item>الجازية</item>
+        <item>الراحية</item>
+        <item>فكرينة</item>
+        <item>هنشير تومغني</item>
+        <item>قصر صباحي</item>
+        <item>مسكيانة</item>
+        <item>أم البواقي</item>
+        <item>أولاد قاسم</item>
+        <item>أولاد حملة</item>
+        <item>وادي نيني</item>
+        <item>أولاد زواي</item>
+        <item>سيقوس</item>
+        <item>سوق نعمان</item>
+        <item>الزرق</item>
+    </string-array>
+    <string-array name="W05">
+        <item>عزيل عبد القادر</item>
+        <item>عين جاسر</item>
+        <item>آريس</item>
+        <item>عين التوتة</item>
+        <item>عين ياقوت</item>
+        <item>بني فضالة الحقانية</item>
+        <item>بومقر</item>
+        <item>بايتام  (لغات أخرى)</item>
+        <item>بولهيلات</item>
+        <item>بومية</item>
+        <item>بريكة</item>
+        <item>باتنة</item>
+        <item>بوزينة</item>
+        <item>الشمرة</item>
+        <item>شير</item>
+        <item>جرمة</item>
+        <item>أحمد باشا الجزار</item>
+        <item>الحاسي</item>
+        <item>المعذر</item>
+        <item>فسديس</item>
+        <item>فم الطوب</item>
+        <item>غسيرة</item>
+        <item>القصبات</item>
+        <item>القيقبة</item>
+        <item>حيدوسة</item>
+        <item>إشمول</item>
+        <item>إينوغيسن</item>
+        <item>قصر بلزمة</item>
+        <item>كيمل</item>
+        <item>لمسان</item>
+        <item>الأربعاء</item>
+        <item>لازرو</item>
+        <item>معافة</item>
+        <item>أمدوكال</item>
+        <item>منعة</item>
+        <item>مروانة</item>
+        <item>نقاوس</item>
+        <item>أولاد عمار</item>
+        <item>وادي الشعبة</item>
+        <item>عيون العصافير</item>
+        <item>أولاد فاضل</item>
+        <item>أولاد سلام</item>
+        <item>وادي الماء</item>
+        <item>أولاد عوف</item>
+        <item>أولاد سي سليمان</item>
+        <item>وادي الطاقة</item>
+        <item>رأس العيون</item>
+        <item>الرحبات</item>
+        <item>سفيان</item>
+        <item>سقانة</item>
+        <item>سريانة</item>
+        <item>ثنية العابد</item>
+        <item>تيغرغار</item>
+        <item>تكوت</item>
+        <item>تالخمت</item>
+        <item>تيمقاد</item>
+        <item>تيغانمين</item>
+        <item>تيلاطو</item>
+        <item>تاكسلانت</item>
+        <item>تازولت</item>
+        <item>زانة البيضاء</item>
+    </string-array>
+    <string-array name="W06">
+        <item>أقبو</item>
+        <item>آدكار</item>
+        <item>أكفادو</item>
+        <item>أمالو</item>
+        <item>أوقاس</item>
+        <item>آيت أرزين</item>
+        <item>آيت سماعيل</item>
+        <item>أميزور</item>
+        <item>برباشة</item>
+        <item>بني جليل</item>
+        <item>بني معوش</item>
+        <item>بوحمزة</item>
+        <item>بجاية</item>
+        <item>بنى كسيلة</item>
+        <item>بوجليل</item>
+        <item>بني مليكش</item>
+        <item>بوخليفة</item>
+        <item>شلاطة</item>
+        <item>شميني</item>
+        <item>درقينة</item>
+        <item>ذراع القايد</item>
+        <item>لفلاي</item>
+        <item>القصر</item>
+        <item>فرعون</item>
+        <item>فناية الماثن</item>
+        <item>إغيل علي</item>
+        <item>آغرام</item>
+        <item>كنديرة</item>
+        <item>خراطة</item>
+        <item>ملبو</item>
+        <item>مسيسنة</item>
+        <item>وادي غير</item>
+        <item>أوزلاقن</item>
+        <item>سيدي عيش</item>
+        <item>سيدي عياد</item>
+        <item>صدوق</item>
+        <item>سمعون</item>
+        <item>سوق أوفلة</item>
+        <item>سوق الإثنين</item>
+        <item>تمقرة</item>
+        <item>طيبان</item>
+        <item>تيشي</item>
+        <item>تينبذار</item>
+        <item>تيفرة</item>
+        <item>تالة حمزة</item>
+        <item>تاوريرت آغيل</item>
+        <item>تامريجت</item>
+        <item>تاسكريوت</item>
+        <item>تيمزريت</item>
+        <item>تيزي أنبربار</item>
+        <item>توجة</item>
+        <item>تازمالت</item>
+    </string-array>
+    <string-array name="W07">
+        <item>عين الناقة</item>
+        <item>عين زعطوط</item>
+        <item>برج بن عزوز</item>
+        <item>البسباس</item>
+        <item>بسكرة</item>
+        <item>بوشقرون</item>
+        <item>البرانيس</item>
+        <item>شتمة</item>
+        <item>الشعيبة</item>
+        <item>الدوسن</item>
+        <item>جمورة</item>
+        <item>الحوش</item>
+        <item>الفيض</item>
+        <item>الغروس</item>
+        <item>الحاجب</item>
+        <item>القنطرة</item>
+        <item>المزيرعة</item>
+        <item>لوطاية</item>
+        <item>فوغالة</item>
+        <item>خنقة سيدي ناجي</item>
+        <item>ليشانة</item>
+        <item>لواء</item>
+        <item>مشونش</item>
+        <item>مخادمة</item>
+        <item>مليلي</item>
+        <item>أولاد جلال</item>
+        <item>أوماش</item>
+        <item>أورلال</item>
+        <item>راس الميعاد</item>
+        <item>سيدي خالد</item>
+        <item>سيدي عقبة</item>
+        <item>طولقة</item>
+        <item>زريبة الوادي</item>
+    </string-array>
+    <string-array name="W08">
+        <item>العبادلة</item>
+        <item>بني عباس</item>
+        <item>بشار</item>
+        <item>بني يخلف</item>
+        <item>بوكايس</item>
+        <item>بني ونيف</item>
+        <item>عرق فراج</item>
+        <item>الواتة</item>
+        <item>إقلي</item>
+        <item>القنادسة</item>
+        <item>القصابي</item>
+        <item>كرزاز</item>
+        <item>لحمر</item>
+        <item>مريجة</item>
+        <item>مشرع هواري بومدين</item>
+        <item>موغل</item>
+        <item>أولاد خضير</item>
+        <item>تاغيث</item>
+        <item>تبلبالة</item>
+        <item>تيمودي</item>
+        <item>تامترت</item>
+    </string-array>
+    <string-array name="W09">
+        <item>عين الرمانة</item>
+        <item>بوعرفة </item>
+        <item>بن خليل</item>
+        <item>بوفاريك</item>
+        <item>بوقرة</item>
+        <item>البليدة</item>
+        <item>بني مراد</item>
+        <item>بوينان</item>
+        <item>بني تامو</item>
+        <item>الشبلي</item>
+        <item>الشفة</item>
+        <item>الشريعة</item>
+        <item>الجبابرة</item>
+        <item>العفرون</item>
+        <item>قرواو</item>
+        <item>حمام ملوان</item>
+        <item>الأربعاء</item>
+        <item>مفتاح</item>
+        <item>موزاية</item>
+        <item>وادي العلايق</item>
+        <item>واد جر</item>
+        <item>أولاد السلامة</item>
+        <item>أولاد يعيش</item>
+        <item>صوحان</item>
+        <item>الصومعة</item>
+    </string-array>
+    <string-array name="W10">
+        <item>عين بسام</item>
+        <item>الحانيف</item>
+        <item>أغبالو</item>
+        <item>عين الحجر</item>
+        <item>أهل القصر</item>
+        <item>عين العلوي</item>
+        <item>آث منصور</item>
+        <item>عمر</item>
+        <item>عين ترك</item>
+        <item>آيث العزيز</item>
+        <item>بودربالة</item>
+        <item>بشلول</item>
+        <item>بئر غبالو</item>
+        <item>بوكرام</item>
+        <item>برج أوخريص</item>
+        <item>البويرة</item>
+        <item>الشرفة</item>
+        <item>الدشمية</item>
+        <item>ديرة</item>
+        <item>الجباحية</item>
+        <item>الحاكمية</item>
+        <item>الهاشمية</item>
+        <item>العجيبية</item>
+        <item>الخبوزية</item>
+        <item>المقراني</item>
+        <item>الشلف</item>
+        <item>قرومة</item>
+        <item>حيزر</item>
+        <item>الحجرة الزرقاء</item>
+        <item>قادرية</item>
+        <item>الأخضرية</item>
+        <item>مشدا الله</item>
+        <item>مسدور</item>
+        <item>معالة</item>
+        <item>المعمورة</item>
+        <item>وادي البردي</item>
+        <item>أولاد راشد</item>
+        <item>الروراوة</item>
+        <item>ريدان</item>
+        <item>الصھاريج</item>
+        <item>سور الغزلان</item>
+        <item>سوق الخميس</item>
+        <item>تاقديت</item>
+        <item>تاغزوت</item>
+        <item>الزبربر</item>
+    </string-array>
+    <string-array name="W11">
+        <item>أبلسة</item>
+        <item>فقارة الزوى</item>
+        <item>أدلس</item>
+        <item>إن غار</item>
+        <item>عين امقل</item>
+        <item>عين صالح</item>
+        <item>عين قزام</item>
+        <item>تاظروك</item>
+        <item>تامنراست</item>
+        <item>تين زاوتين</item>
+    </string-array>
+    <string-array name="W12">
+        <item>عين الزرقاء</item>
+        <item>بئر العاتر</item>
+        <item>بئر الذهب</item>
+        <item>بجن</item>
+        <item>بكارية</item>
+        <item>بولحاف الدير</item>
+        <item>بئر مقدم</item>
+        <item>بوخضرة</item>
+        <item>الشريعة</item>
+        <item>العوينات</item>
+        <item>الحويجبات</item>
+        <item>الكويف</item>
+        <item>الماء الأبيض</item>
+        <item>العقلة</item>
+        <item>المريج</item>
+        <item>المزرعة</item>
+        <item>فركان</item>
+        <item>قريقر</item>
+        <item>الحمامات</item>
+        <item>مرسط</item>
+        <item>نقرين</item>
+        <item>أم علي</item>
+        <item>العقلة المالحة</item>
+        <item>الونزة</item>
+        <item>سطح قنطيس</item>
+        <item>صفصاف الوسرة</item>
+        <item>تبسة</item>
+        <item>ثليجان</item>
+    </string-array>
+    <string-array name="W13">
+        <item>عين فزة</item>
+        <item>عين غرابة</item>
+        <item>عين فتاح</item>
+        <item>عين الكبيرة</item>
+        <item>عمير</item>
+        <item>عين نحالة</item>
+        <item>عين تالوت</item>
+        <item>عين يوسف</item>
+        <item>العزايل</item>
+        <item>باب العسة</item>
+        <item>بني بوسعيد</item>
+        <item>بني بهدل</item>
+        <item>بن سكران</item>
+        <item>بوحلو</item>
+        <item>البويهي</item>
+        <item>بني صميل</item>
+        <item>بني مستار</item>
+        <item>بني ورسوس</item>
+        <item>بني راشد</item>
+        <item>بني سنوس</item>
+        <item>شتوان</item>
+        <item>جبالة</item>
+        <item>دار يغمراسن</item>
+        <item>العريشة</item>
+        <item>الفحول</item>
+        <item>القور</item>
+        <item>فلاوسن</item>
+        <item>الغزوات</item>
+        <item>حمام بوغرارة</item>
+        <item>الحناية</item>
+        <item>هنين</item>
+        <item>مرسى بن مهيدي</item>
+        <item>مسيردة الفواقة</item>
+        <item>مغنية</item>
+        <item>منصورة</item>
+        <item>ندرومة</item>
+        <item>الواد الأخضر</item>
+        <item>أولاد ميمون</item>
+        <item>أولاد رياح</item>
+        <item>الرمشي</item>
+        <item>سيدي العبدلي</item>
+        <item>صبرة</item>
+        <item>سبع شيوخ</item>
+        <item>سيدي الجيلالي</item>
+        <item>سبدو</item>
+        <item>السواحلية</item>
+        <item>سيدي مجاهد</item>
+        <item>السواني</item>
+        <item>سوق الثلاثاء</item>
+        <item>بني هديل</item>
+        <item>تيانت</item>
+        <item>تلمسان</item>
+        <item>زناتة</item>
+    </string-array>
+    <string-array name="W14">
+        <item>عين بوشقيف</item>
+        <item>عين الذهب</item>
+        <item>عين الحديد</item>
+        <item>عين كرمس</item>
+        <item>عين زاريت</item>
+        <item>بوقرة</item>
+        <item>شحيمة</item>
+        <item>دهموني</item>
+        <item>جيلالي بن عمار</item>
+        <item>جبيلة الرصفاء</item>
+        <item>الفايجة</item>
+        <item>فرندة</item>
+        <item>قرطوفة</item>
+        <item>حمادية</item>
+        <item>قصر الشلالة</item>
+        <item>مغيلة</item>
+        <item>المهدية</item>
+        <item>مدريسة</item>
+        <item>ملاكو</item>
+        <item>مادنة</item>
+        <item>مدروسة</item>
+        <item>مشرع الصفاء</item>
+        <item>الناظورة</item>
+        <item>النعيمة</item>
+        <item>وادي ليلي</item>
+        <item>الرحوية</item>
+        <item>الرشايقة</item>
+        <item>سيدي بختي</item>
+        <item>سبعين</item>
+        <item>سي عبد الغاني</item>
+        <item>سيدي حسني</item>
+        <item>سيدي علي ملال</item>
+        <item>سرغين</item>
+        <item>السوقر</item>
+        <item>سيدي عبد الرحمان</item>
+        <item>السبت</item>
+        <item>تيدة</item>
+        <item>تاقدمت</item>
+        <item>تاخمرت</item>
+        <item>توسنينة</item>
+        <item>تيارت</item>
+        <item>زمالة الأمير عبد القادر</item>
+    </string-array>
+    <string-array name="W15">
+        <item>أيت قواشة</item>
+        <item>أيت بومهدي</item>
+        <item>أيت شفعة</item>
+        <item>أيت بوعدو</item>
+        <item>عين الحمام</item>
+        <item>أزفون</item>
+        <item>أقني قغران</item>
+        <item>أيت يحي</item>
+        <item>أيت خليلي</item>
+        <item>أقرو</item>
+        <item>أقبيل</item>
+        <item>أيت محمود</item>
+        <item>عين الزاوية</item>
+        <item>أيت أومالو</item>
+        <item>أغريب</item>
+        <item>أسي يوسف</item>
+        <item>أيت تودرت</item>
+        <item>أبي يوسف</item>
+        <item>أيت يحي موسى</item>
+        <item>عزازقة</item>
+        <item>بني عيسي</item>
+        <item>بني دوالة</item>
+        <item>بوغني</item>
+        <item>بوجيمة</item>
+        <item>بني زيكي</item>
+        <item>بونوح</item>
+        <item>بوزغن</item>
+        <item>بني يني</item>
+        <item>بني زمنزر</item>
+        <item>آيت عيسى ميمون</item>
+        <item>ذراع بن خدة</item>
+        <item>ذراع الميزان</item>
+        <item>فريحة</item>
+        <item>فريقات</item>
+        <item>إبودرارن</item>
+        <item>إجر</item>
+        <item>إفليسن</item>
+        <item>إيفيغاء</item>
+        <item>إليلتن</item>
+        <item>أمسوحال</item>
+        <item>إيفرحونن</item>
+        <item>إيلولة أمالو</item>
+        <item>إرجن</item>
+        <item>الأربعاء نايث إيراثن</item>
+        <item>المعاتقة</item>
+        <item>مشطراس</item>
+        <item>ماكودة</item>
+        <item>مزرانة</item>
+        <item>مكيرة</item>
+        <item>مقلع</item>
+        <item>واسيف</item>
+        <item>واضية</item>
+        <item>واقنون</item>
+        <item>سيدي نعمان</item>
+        <item>الصوامع</item>
+        <item>سوق الإثنين</item>
+        <item>تادمايت</item>
+        <item>تيزي غنيف</item>
+        <item>تيميزارت</item>
+        <item>تيزي نثلاثة</item>
+        <item>تيزي وزو</item>
+        <item>تيزي راشد</item>
+        <item>تيرمتين</item>
+        <item>تيقزيرت</item>
+        <item>إعكوران</item>
+        <item>يطافن</item>
+        <item>زكري</item>
+    </string-array>
+    <string-array name="W16">
+        <item>تاشتة زقاغة</item>
+        <item>زدين</item>
+        <item>عين البنيان</item>
+        <item>الجزائر الوسطى</item>
+        <item>بلدية عين طاية</item>
+        <item>بلدية بن عكنون</item>
+        <item>بلدية برج البحري</item>
+        <item>بئر خادم</item>
+        <item>باب الزوار</item>
+        <item>بلدية بابا حسن</item>
+        <item>بولوغين</item>
+        <item>بلدية باش جراح</item>
+        <item>برج الكيفان</item>
+        <item>بير مراد رايس</item>
+        <item>باب الوادي</item>
+        <item>براقي</item>
+        <item>بني مسوس</item>
+        <item>بلدية بئر توتة</item>
+        <item>بلدية بوروبة</item>
+        <item>بوزريعة</item>
+        <item>قصبة </item>
+        <item>بلدية الشراقة</item>
+        <item>الدار البيضاء</item>
+        <item>بلدية دالي إبراهيم</item>
+        <item>جسر قسنطينة </item>
+        <item>بلدية دويرة</item>
+        <item>درارية</item>
+        <item>بلدية العاشور</item>
+        <item>الأبيار</item>
+        <item>المدنية</item>
+        <item>بلدية المقارية</item>
+        <item>الحراش</item>
+        <item>بلدية المرادية</item>
+        <item>الحمامات</item>
+        <item>هراوة</item>
+        <item>الداي حسين</item>
+        <item>حيدرة</item>
+        <item>بلدية خرايسية</item>
+        <item>القبة</item>
+        <item>الكاليتوس</item>
+        <item>بلوزداد</item>
+        <item>المحالمة</item>
+        <item>المحمدية</item>
+        <item>بلدية المرسى</item>
+        <item>بلدية أولاد شبل</item>
+        <item>أولاد فايت</item>
+        <item>بلدية واد قريش</item>
+        <item>بلدية وادي السمار</item>
+        <item>بلدية الرحمانية</item>
+        <item>بلدية الرغاية</item>
+        <item>رايس حميدو بن علي</item>
+        <item>الرويبة</item>
+        <item>بلدية السحاولة</item>
+        <item>سيدي امحمد</item>
+        <item>سيدي موسى</item>
+        <item>السويدانية</item>
+        <item>سطاوالي</item>
+        <item>بلدية تسالة المرجة</item>
+        <item>زرالدة</item>
+    </string-array>
+    <string-array name="W17">
+        <item>عين الشهداء</item>
+        <item>عين أفقه</item>
+        <item>عين الابل</item>
+        <item>عين معبد</item>
+        <item>عين وسارة</item>
+        <item>عمورة</item>
+        <item>بنهار</item>
+        <item>البيرين</item>
+        <item>بويرة الأحداب</item>
+        <item>بن يعقوب</item>
+        <item>الشارف</item>
+        <item>دار الشيوخ</item>
+        <item>دلدول</item>
+        <item>الجلفة</item>
+        <item>الدويس</item>
+        <item>القديد</item>
+        <item>الإدريسية</item>
+        <item>الخميس</item>
+        <item>فيض البطمة</item>
+        <item>القرنيني</item>
+        <item>قطارة</item>
+        <item>حاسي بحبح</item>
+        <item>حاسي العش</item>
+        <item>حاسي فدول</item>
+        <item>حد الصحاري</item>
+        <item>مسعد</item>
+        <item>المليحية</item>
+        <item>مجبارة</item>
+        <item>أم العظام</item>
+        <item>سيدي بايزيد</item>
+        <item>سلمانة</item>
+        <item>دائرة سيدي لعجال</item>
+        <item>سد رحال</item>
+        <item>تعضميت</item>
+        <item>زكار</item>
+        <item>الزعفران</item>
+    </string-array>
+    <string-array name="W18">
+        <item>بوراوي بلهادف</item>
+        <item>أولاد عسكر</item>
+        <item>برج الطهر</item>
+        <item>بودريعة بن ياجيس</item>
+        <item>الشقفة</item>
+        <item>بلدية الشحنة</item>
+        <item>الجمعة بني حبيبي</item>
+        <item>جميلة</item>
+        <item>العوانة</item>
+        <item>عبد القادر الجزائري</item>
+        <item>القنار</item>
+        <item>الميلية</item>
+        <item>العنصر</item>
+        <item>الرقان</item>
+        <item>غبالة</item>
+        <item>جيجل</item>
+        <item>خيري وادي العجول</item>
+        <item>قاوس</item>
+        <item>أولاد رابح</item>
+        <item>وجانة</item>
+        <item>أولاد يحيى خدروش</item>
+        <item>سيدي عبد العزيز</item>
+        <item>سلمى بن زيادة</item>
+        <item>السطارة</item>
+        <item>سيدي معروف</item>
+        <item>الطاهير</item>
+        <item>تاكسنة</item>
+        <item>زيامة منصورية</item>
+    </string-array>
+    <string-array name="W19">
+        <item>عين أرنات</item>
+        <item>عين عباسة</item>
+        <item>عين لحجر</item>
+        <item>عين الكبيرة</item>
+        <item>عين لقراج</item>
+        <item>عموشة</item>
+        <item>آيت نوال مزادة</item>
+        <item>عين ولمان</item>
+        <item>عين روا</item>
+        <item>عين السبت</item>
+        <item>آيت تيزي</item>
+        <item>عين آزال</item>
+        <item>بئر العرش</item>
+        <item>بيضاء برج</item>
+        <item>بني شبانة</item>
+        <item>بوعنداس</item>
+        <item>بلاعة</item>
+        <item>بني فودة</item>
+        <item>بوقاعة</item>
+        <item>بئر حدادة</item>
+        <item>بوسلام</item>
+        <item>بني محلي</item>
+        <item>بني حسين</item>
+        <item>بني ورتيلان</item>
+        <item>بابور</item>
+        <item>بازر الصخرة</item>
+        <item>بوطالب</item>
+        <item>بني عزيز</item>
+        <item>دهامشة</item>
+        <item>جميلة</item>
+        <item>ذراع قبيلة</item>
+        <item>الولجة</item>
+        <item>أوريسيا</item>
+        <item>العلمة</item>
+        <item>بوطالب</item>
+        <item>قيجل</item>
+        <item>قنزات</item>
+        <item>القلتة الزرقاء</item>
+        <item>الحامة</item>
+        <item>حمام قرقور</item>
+        <item>حربيل</item>
+        <item>حمام السخنة</item>
+        <item>قصر الأبطال</item>
+        <item>معاوية</item>
+        <item>مزلوق</item>
+        <item>ماوكلان</item>
+        <item>أولاد عدوان</item>
+        <item>واد البارد</item>
+        <item>أولاد سي أحمد</item>
+        <item>أولاد صابر</item>
+        <item>أولاد تبان</item>
+        <item>رسفة</item>
+        <item>صالح باي</item>
+        <item>سطيف</item>
+        <item>سرج الغول</item>
+        <item>تاشودة</item>
+        <item>التلة</item>
+        <item>تالة ايفاسن</item>
+        <item>تيزي نبشار</item>
+        <item>طاية</item>
+    </string-array>
+    <string-array name="W20">
+        <item>عين الحجر</item>
+        <item>عين السخونة</item>
+        <item>عين سلطان</item>
+        <item>ذوي ثابت</item>
+        <item>الحساسنة</item>
+        <item>هونة</item>
+        <item>المعمورة</item>
+        <item>مولاي لعربي</item>
+        <item>أولاد إبراهيم</item>
+        <item>أولاد خالد</item>
+        <item>سيدي أحمد</item>
+        <item>سيدي بوبكر</item>
+        <item>سعيدة</item>
+        <item>سيدي اعمر</item>
+        <item>تيرسين</item>
+        <item>أيوب</item>
+    </string-array>
+    <string-array name="W21">
+        <item>عزابة</item>
+        <item>عين بوزيان</item>
+        <item>عين شرشار</item>
+        <item>عين قشرة</item>
+        <item>عين زويت</item>
+        <item>بن عزوز</item>
+        <item>بني بشير</item>
+        <item>بوشطاطة</item>
+        <item>بين الويدان</item>
+        <item>بكوش لخضر</item>
+        <item>بني ولبان</item>
+        <item>بني زيد</item>
+        <item>الشرايع</item>
+        <item>القل</item>
+        <item>جندل</item>
+        <item>الحدائق</item>
+        <item>أمجاز الدشيش</item>
+        <item>لغدير</item>
+        <item>المرسى</item>
+        <item>الحروش</item>
+        <item>السبت</item>
+        <item>فلفلة</item>
+        <item>حمادي كرومة</item>
+        <item>قنواع</item>
+        <item>الكركرة</item>
+        <item>خناق مايون</item>
+        <item>أولاد عطية</item>
+        <item>الوجلة بوالبلوط</item>
+        <item>أولاد أحبابة</item>
+        <item>أم الطوب</item>
+        <item>وادي الزهور</item>
+        <item>رمضان جمال</item>
+        <item>صالح بوالشعور</item>
+        <item>سكيكدة</item>
+        <item>سيدي مزغيش</item>
+        <item>تمالوس</item>
+        <item>زردازة</item>
+        <item>الزيتونة</item>
+    </string-array>
+    <string-array name="W22">
+        <item>عين أدان</item>
+        <item>عين البرد</item>
+        <item>عين الثريد</item>
+        <item>عين قادة</item>
+        <item>أمرناس</item>
+        <item>عين تندامين</item>
+        <item>عبد الحميد بن باديس</item>
+        <item>بن عشيبة شلية</item>
+        <item>بوجبع البرج</item>
+        <item>بئر الحمام</item>
+        <item>بلعربي</item>
+        <item>بدر الدين المقراني</item>
+        <item>بوخنيفيس</item>
+        <item>شيطوان بليلة</item>
+        <item>الضاية</item>
+        <item>الحصيبة</item>
+        <item>حاسي دحو</item>
+        <item>حاسي زهانة</item>
+        <item>لمطار</item>
+        <item>مصطفى بن براهيم</item>
+        <item>مسيد</item>
+        <item>مرحوم</item>
+        <item>مقدرة</item>
+        <item>مرين</item>
+        <item>مولاي سليسن</item>
+        <item>مزاورو</item>
+        <item>واد السبع</item>
+        <item>وادي سفيون</item>
+        <item>واد تاوريرة</item>
+        <item>رجم دموش</item>
+        <item>رأس الماء</item>
+        <item>سيدي علي بن يوب</item>
+        <item>سيدي بلعباس</item>
+        <item>سيدي شعيب</item>
+        <item>سيدي دحو الزائر </item>
+        <item>سفيزف</item>
+        <item>سيدي حمادوش</item>
+        <item>سيدي علي بوسيدي</item>
+        <item>سيدي خالد</item>
+        <item>سيدي لحسن</item>
+        <item>سيدي ابراهيم</item>
+        <item>سهالة ثاورة</item>
+        <item>سيدي يعقوب</item>
+        <item>طابية</item>
+        <item>تفسور</item>
+        <item>تغاليمت</item>
+        <item>تلموني</item>
+        <item>تلاغ</item>
+        <item>تنيرة</item>
+        <item>تاودموت</item>
+        <item>تسالة</item>
+        <item>زروالة</item>
+    </string-array>
+    <string-array name="W23">
+        <item>عين الباردة</item>
+        <item>عنابة</item>
+        <item>دائرة برحال</item>
+        <item>الشرفة</item>
+        <item>شطايبي</item>
+        <item>البوني</item>
+        <item>العلمة</item>
+        <item>الحجار</item>
+        <item>وادي العنب</item>
+        <item>سيدي عمار</item>
+        <item>سرايدي</item>
+        <item>تريعات</item>
+    </string-array>
+    <string-array name="W24">
+        <item>عين بن بيضاء</item>
+        <item>عين حساينية</item>
+        <item>عين العربي</item>
+        <item>عين مخلوف</item>
+        <item>عين رقادة</item>
+        <item>عين صندل</item>
+        <item>بومهرة أحمد</item>
+        <item>بوحشانة</item>
+        <item>بن جراح</item>
+        <item>بلخير</item>
+        <item>بلدية بوحمدان</item>
+        <item>بوعاطي محمود</item>
+        <item>بوشقوف</item>
+        <item>برج صباط</item>
+        <item>بني مزلين</item>
+        <item>الدهوارة</item>
+        <item>جبالة لخميسي</item>
+        <item>الفجوج</item>
+        <item>قالمة</item>
+        <item>حمام دباغ</item>
+        <item>هيليوبوليس</item>
+        <item>حمام النبايل</item>
+        <item>قلعة بوصبع</item>
+        <item>لخزارة</item>
+        <item>مجاز عمار</item>
+        <item>مجاز الصفاء</item>
+        <item>نشامية</item>
+        <item>وادي الشحم</item>
+        <item>وادي فراغة</item>
+        <item>وادي الزناتي</item>
+        <item>راس العقبة</item>
+        <item>بلدية الركنية</item>
+        <item>سلاوة عنونة</item>
+        <item>تاملوكة</item>
+    </string-array>
+    <string-array name="W25">
+        <item>عين عبيد</item>
+        <item>عين سمارة</item>
+        <item>ابن باديس</item>
+        <item>بني حميدان</item>
+        <item>بلدية مسعود بوجريو</item>
+        <item>قسنطينة</item>
+        <item>ديدوش مراد</item>
+        <item>الخروب</item>
+        <item>دائرة حامة بوزيان</item>
+        <item>بلدية ابن زياد</item>
+        <item>أولاد رحمون</item>
+        <item>زيغود يوسف</item>
+    </string-array>
+    <string-array name="W26">
+        <item>عين بوسيف</item>
+        <item>العزيزية</item>
+        <item>عين القصير</item>
+        <item>العيساوية</item>
+        <item>عزيز</item>
+        <item>بعطة</item>
+        <item>بئر بن عابد</item>
+        <item>بن شكاو</item>
+        <item>البرواقية</item>
+        <item>بوغار</item>
+        <item>بو شراحيل</item>
+        <item>بوسكن</item>
+        <item>بوعيشون</item>
+        <item>بني سليمان</item>
+        <item>بوعيش</item>
+        <item>بوغزول</item>
+        <item>الشهبونية</item>
+        <item>شنيقل</item>
+        <item>شلالة العذاورة</item>
+        <item>دمياط</item>
+        <item>فج الحوضين</item>
+        <item>دراق</item>
+        <item>جواب</item>
+        <item>ذراع السمار</item>
+        <item>القلب الكبير</item>
+        <item>الحمدانية</item>
+        <item>الكاف الأخضر</item>
+        <item>العمرية</item>
+        <item>العوينات</item>
+        <item>حناشة</item>
+        <item>قصر البخاري</item>
+        <item>خمس جوامع</item>
+        <item>ميديا</item>
+        <item>المفاتحة</item>
+        <item>ميهوب</item>
+        <item>مجبر</item>
+        <item>مغراوة</item>
+        <item>مزغنة</item>
+        <item>أولاد عنتر</item>
+        <item>أولاد إبراهيم</item>
+        <item>أولاد بوعشرة</item>
+        <item>أولاد دايد</item>
+        <item>أم الجليل</item>
+        <item>وادي حربيل</item>
+        <item>أولاد هلال</item>
+        <item>أولاد معرف</item>
+        <item>وامري</item>
+        <item>وزرة</item>
+        <item>الربعية</item>
+        <item>سانق</item>
+        <item>سيدي دامد</item>
+        <item>سغوان</item>
+        <item>سيدي زهار</item>
+        <item>سي المحجوب</item>
+        <item>سيدي نعمان</item>
+        <item>السواقي</item>
+        <item>سيدي الربيع</item>
+        <item>سدراية</item>
+        <item>سيدي زيان</item>
+        <item>تابلاط</item>
+        <item>ثلاثة الدوائر</item>
+        <item>تافراوت</item>
+        <item>تمزقيدة</item>
+        <item>الزبيرية</item>
+    </string-array>
+    <string-array name="W27">
+        <item>عين بودينار</item>
+        <item>عشعاشة</item>
+        <item>عين النويصي</item>
+        <item>عين سيدي شريف</item>
+        <item>عين تادلس</item>
+        <item>بوقيرات</item>
+        <item>بن عبد المالك رمضان</item>
+        <item>فرناكة</item>
+        <item>حجاج</item>
+        <item>الحسيان عين النويصي</item>
+        <item>حاسي مماش</item>
+        <item>خضرة</item>
+        <item>خير الدين</item>
+        <item>منصورة</item>
+        <item>مستغانم</item>
+        <item>ماسرة</item>
+        <item>مزغران</item>
+        <item>نقمارية</item>
+        <item>أولاد بوغالم</item>
+        <item>واد الخير</item>
+        <item>أولاد مع الله</item>
+        <item>سيدي علي</item>
+        <item>سيدي بلعطار</item>
+        <item>صفصاف</item>
+        <item>سيرات</item>
+        <item>سيدي الأخضر</item>
+        <item>السوافلية</item>
+        <item>تذوق</item>
+        <item>ستيدية</item>
+        <item>صيادة</item>
+        <item>تازقايت</item>
+        <item>الطواهرية</item>
+    </string-array>
+    <string-array name="W28">
+        <item>عين فارس</item>
+        <item>عين الحجل</item>
+        <item>عين خضرة</item>
+        <item>عين الملح</item>
+        <item>عين الريش</item>
+        <item>بلعايبة</item>
+        <item>بوسعادة</item>
+        <item>بير الفضة</item>
+        <item>بني يلمان</item>
+        <item>برهوم</item>
+        <item>بن سرور</item>
+        <item>بوطي السايح</item>
+        <item>بن زوح</item>
+        <item>شلال</item>
+        <item>الدهاهنة</item>
+        <item>جبل مسعد</item>
+        <item>الحوامد</item>
+        <item>الهامل</item>
+        <item>حمام الضلعة</item>
+        <item>خبانة</item>
+        <item>المعاريف</item>
+        <item>محمد بوضياف</item>
+        <item>مسيف</item>
+        <item>المعاضيد</item>
+        <item>مجدل</item>
+        <item>مقرة</item>
+        <item>أولاد عطية</item>
+        <item>المسيلة</item>
+        <item>المطارفة</item>
+        <item>أولاد عدي القبالة</item>
+        <item>أولاد سيدي إبراهيم</item>
+        <item>أولاد ماضي</item>
+        <item>أولاد دراج</item>
+        <item>أولاد منصور</item>
+        <item>ونوغة</item>
+        <item>أولاد سليمان</item>
+        <item>أولتام</item>
+        <item>دائرة سيدي عامر</item>
+        <item>سيدي عيسى</item>
+        <item>سيدي هجرس</item>
+        <item>سليم</item>
+        <item>سيدي امحمد</item>
+        <item>الصوامع</item>
+        <item>تارمونت</item>
+        <item>تامسة</item>
+        <item>الزرزور</item>
+    </string-array>
+    <string-array name="W29">
+        <item>عين فارس</item>
+        <item>عين فكان</item>
+        <item>العلايمية</item>
+        <item>عوف</item>
+        <item>عين فراح</item>
+        <item>عين فارس</item>
+        <item>البنيان</item>
+        <item>بوهني</item>
+        <item>بوحنيفية</item>
+        <item>الشرفة</item>
+        <item>البرج</item>
+        <item>القعدة</item>
+        <item>القيطنة</item>
+        <item>الهاشم</item>
+        <item>القرط</item>
+        <item>المامونية</item>
+        <item>المنور</item>
+        <item>الغمري</item>
+        <item>مطمور</item>
+        <item>فراقيق</item>
+        <item>فروحة</item>
+        <item>غروس</item>
+        <item>غريس</item>
+        <item>قرجوم</item>
+        <item>حسين</item>
+        <item>خلوية</item>
+        <item>ماوسة</item>
+        <item>المسكرة</item>
+        <item>مقطع دوز</item>
+        <item>محاميد</item>
+        <item>مخدة</item>
+        <item>المحمدية</item>
+        <item>نسموط</item>
+        <item>وادي الأبطال</item>
+        <item>عكاز</item>
+        <item>وادي تاغية</item>
+        <item>راس عين عميروش</item>
+        <item>سيدي بوسعيد</item>
+        <item>سيدي عبد الجبار</item>
+        <item>السحايلية</item>
+        <item>سيق</item>
+        <item>سجرارة</item>
+        <item>سيدي قادة</item>
+        <item>سيدي عبد المؤمن</item>
+        <item>تغنيف</item>
+        <item>تيزي</item>
+        <item>زهانة</item>
+        <item>خطوطي سد الجير</item>
+    </string-array>
+    <string-array name="W30">
+        <item>عين البيضاء</item>
+        <item>بلدة عمر</item>
+        <item>بن ناصر</item>
+        <item>العالية</item>
+        <item>البرمة</item>
+        <item>الحجيرة</item>
+        <item>حاسي بن عبد الله</item>
+        <item>حاسي مسعود</item>
+        <item>مقارين</item>
+        <item>المنقر</item>
+        <item>النزلة</item>
+        <item>النقوسة</item>
+        <item>ورقلة</item>
+        <item>الرويسات</item>
+        <item>سيدي خويلد</item>
+        <item>سيدي سليمان</item>
+        <item>الطيبات</item>
+        <item>تبسبست</item>
+        <item>تماسين</item>
+        <item>تقرت</item>
+        <item>الزاوية العابدية</item>
+    </string-array>
+    <string-array name="W31">
+        <item>عين البية</item>
+        <item>عين الكرمة</item>
+        <item>أرزيو</item>
+        <item>عين الترك</item>
+        <item>بئر الجير</item>
+        <item>بطيوة</item>
+        <item>بن فريحة</item>
+        <item>بوتليليس</item>
+        <item>بوفاطيس</item>
+        <item>بوسفر</item>
+        <item>العنصر</item>
+        <item>البرية</item>
+        <item>الكرمة</item>
+        <item>السانية</item>
+        <item>قديل</item>
+        <item>حاسي بونيف</item>
+        <item>حاسي مفسوخ</item>
+        <item>حاسي بن عقبة</item>
+        <item>مرسى الحجاج</item>
+        <item>مسرغين</item>
+        <item>المرسى الكبير</item>
+        <item>وهران</item>
+        <item>وادي تليلات</item>
+        <item>سيدي بن يبقى</item>
+        <item>سيدي الشحمي</item>
+        <item>طفراوي</item>
+    </string-array>
+    <string-array name="W32">
+        <item>عين العراك</item>
+        <item>أربوات</item>
+        <item>بوقطب</item>
+        <item>بوعلام</item>
+        <item>بريزينة</item>
+        <item>بوسمغون</item>
+        <item>شقيق</item>
+        <item>الشلالة</item>
+        <item>الخيثر</item>
+        <item>المحرة</item>
+        <item>البنود</item>
+        <item>الأبيض سيدي الشيخ</item>
+        <item>البيّض</item>
+        <item>الغاسول</item>
+        <item>كاف لحمر</item>
+        <item>كراكدة</item>
+        <item>الرقاصة</item>
+        <item>دائرة سيدي عامر</item>
+        <item>ستيتن</item>
+        <item>سيدي سليمان</item>
+        <item>سيدي طيفور</item>
+        <item>توسمولين</item>
+    </string-array>
+    <string-array name="W33">
+        <item>برج الحواس</item>
+        <item>برج عمر ادريس</item>
+        <item>دبداب</item>
+        <item>جانت</item>
+        <item>إن أميناس</item>
+        <item>إليزي</item>
+    </string-array>
+    <string-array name="W34">
+        <item>عين تاغروت</item>
+        <item>بلدية عين تسرة</item>
+        <item>برج بوعريريج</item>
+        <item>بن داود</item>
+        <item>بليمور</item>
+        <item>برج الغدير</item>
+        <item>بئر قصد علي</item>
+        <item>برج زمورة</item>
+        <item>القلة</item>
+        <item>الجعافرة</item>
+        <item>العش</item>
+        <item>الحمادية</item>
+        <item>المهير</item>
+        <item>الماين</item>
+        <item>اليشير</item>
+        <item>بلدية العناصر</item>
+        <item>غيلاسة</item>
+        <item>حسناوة</item>
+        <item>حرازة</item>
+        <item>خلـيل</item>
+        <item>القصور</item>
+        <item>المنصورة</item>
+        <item>مجانة</item>
+        <item>أولاد براهم</item>
+        <item>أولاد دحمان</item>
+        <item>أولاد سيدي إبراهيم</item>
+        <item>الرابطة</item>
+        <item>رأس الواد</item>
+        <item>سيدي امبارك</item>
+        <item>تاسمرت</item>
+        <item>تفرق</item>
+        <item>تقلعيت</item>
+        <item>تكستار</item>
+        <item>ثنية النصر</item>
+    </string-array>
+    <string-array name="W35">
+        <item>اعفير</item>
+        <item>أمال</item>
+        <item>بني عمران</item>
+        <item>بودواو البحرى</item>
+        <item>بن شود</item>
+        <item>بودواو</item>
+        <item>بغلية</item>
+        <item>قدارة</item>
+        <item>برج منايل</item>
+        <item>بومرداس</item>
+        <item>شعبة العامر</item>
+        <item>فيا دل كورسو</item>
+        <item>دلس</item>
+        <item>جنات </item>
+        <item>خروبة بودواو</item>
+        <item>حمادي</item>
+        <item>يسر</item>
+        <item>خميس الخشنة</item>
+        <item>لربطشي</item>
+        <item>لقاطة</item>
+        <item>الناصرية</item>
+        <item>أولا عيسى</item>
+        <item>أولاد هداج</item>
+        <item>أولاد موس</item>
+        <item>سيدي داود</item>
+        <item>سوق الحد</item>
+        <item>سي مصطفى</item>
+        <item>تاورقة</item>
+        <item>الثنية</item>
+        <item>تجلبين</item>
+        <item>تيمزريت</item>
+        <item>زموري</item>
+    </string-array>
+    <string-array name="W36">
+        <item>عين العسل</item>
+        <item>عين الكرمة</item>
+        <item>عصفور</item>
+        <item>بوقوس</item>
+        <item>بوحجار</item>
+        <item>العربي بن مهيدي</item>
+        <item>بريحان</item>
+        <item>البسباس</item>
+        <item>بوثلجة</item>
+        <item>الشافية</item>
+        <item>الشيحاني</item>
+        <item>شبيطة مختار</item>
+        <item>الذرعان</item>
+        <item>العيون</item>
+        <item>الشط</item>
+        <item>القالة</item>
+        <item>الطارف</item>
+        <item>حمام بني صالح</item>
+        <item>بحيرة الطيور</item>
+        <item>واد الزيتون</item>
+        <item>رمل السوق</item>
+        <item>السوارخ</item>
+        <item>زريزر</item>
+        <item>الزيتونة</item>
+    </string-array>
+    <string-array name="W37">
+        <item>أم العسل</item>
+        <item>تندوف</item>
+    </string-array>
+    <string-array name="W38">
+        <item>عماري</item>
+        <item>برج بونعامة</item>
+        <item>بني شعيب</item>
+        <item>بوقايد</item>
+        <item>برج الأمير عبد القادر</item>
+        <item>بني لحسن</item>
+        <item>اليوسفية</item>
+        <item>خميستي</item>
+        <item>الأربعاء</item>
+        <item>لرجام</item>
+        <item>العيون</item>
+        <item>الأزهرية</item>
+        <item>المعاصم</item>
+        <item>الملعب</item>
+        <item>أولاد بسام</item>
+        <item>سيدي عابد</item>
+        <item>سيدي بوتشنت</item>
+        <item>سيدي العنتري</item>
+        <item>سيدي سليمان</item>
+        <item>تملاحت</item>
+        <item>ثنية الأحد</item>
+        <item>تيسمسيلت</item>
+    </string-array>
+    <string-array name="W39">
+        <item>البياضة</item>
+        <item>بن قشة</item>
+        <item>الدبيلة</item>
+        <item>جامعة</item>
+        <item>دوار الماء</item>
+        <item>العقلة</item>
+        <item>المغير</item>
+        <item>الوادي</item>
+        <item>قمار</item>
+        <item>بلدية حساني عبد الكريم</item>
+        <item>حاسي خليفة</item>
+        <item>الحمراية</item>
+        <item>كوينين</item>
+        <item>المقرن</item>
+        <item>أميه ونسة</item>
+        <item>مرارة</item>
+        <item>النخلة</item>
+        <item>وادي العلندة</item>
+        <item>أم الطيور</item>
+        <item>ورماس</item>
+        <item>الرقيبة</item>
+        <item>الرباح</item>
+        <item>سيدي عون</item>
+        <item>سيدي خليل</item>
+        <item>سيدي عمران</item>
+        <item>اسطيل</item>
+        <item>تغزوت</item>
+        <item>تندلة</item>
+        <item>طالب العربي</item>
+        <item>الطريفاوي</item>
+    </string-array>
+    <string-array name="W40">
+        <item>عين الطويلة</item>
+        <item>بابار</item>
+        <item>بغاي</item>
+        <item>بوحمامة</item>
+        <item>ششار</item>
+        <item>شلية</item>
+        <item>جلال</item>
+        <item>معتمدية الحامة</item>
+        <item>المحمل</item>
+        <item>أنسيغة</item>
+        <item>الولجة</item>
+        <item>قايس</item>
+        <item>خنشلة</item>
+        <item>خيران</item>
+        <item>أمصارة</item>
+        <item>متوسة</item>
+        <item>أولاد رشاش</item>
+        <item>الرميلة</item>
+        <item>تاوزينت</item>
+        <item>طامزة</item>
+        <item>يابوس</item>
+    </string-array>
+    <string-array name="W41">
+        <item>عين سلطان</item>
+        <item>عين زانة</item>
+        <item>بئر بوحوش</item>
+        <item>الدريعة</item>
+        <item>الحدادة</item>
+        <item>الحنانشة</item>
+        <item>الخضارة</item>
+        <item>خميسة</item>
+        <item>المشروحة</item>
+        <item>مداوروش</item>
+        <item>المراهنة</item>
+        <item>أم العظائم</item>
+        <item>أولاد إدريس</item>
+        <item>وادي الكبريت</item>
+        <item>أولاد مؤمن</item>
+        <item>ويلان</item>
+        <item>الراقوبة</item>
+        <item>سوق أهراس</item>
+        <item>سدراتة</item>
+        <item>سيدي فرج</item>
+        <item>سافل الويدان</item>
+        <item>تاورة</item>
+        <item>ترقالت</item>
+        <item>تيفاش</item>
+        <item>الزعرورية</item>
+        <item>الزوابي</item>
+    </string-array>
+    <string-array name="W42">
+        <item>حمر العين</item>
+        <item>أغبال</item>
+        <item>عين تقورايت</item>
+        <item>بوهارون</item>
+        <item>بو اسماعيل</item>
+        <item>بني مليك</item>
+        <item>بورقيقة</item>
+        <item>الشعيبة</item>
+        <item>شرشال</item>
+        <item>الداموس</item>
+        <item>دواودة</item>
+        <item>فوكة</item>
+        <item>قوراية</item>
+        <item>حجرة النص</item>
+        <item>حجوط</item>
+        <item>حطاطبة</item>
+        <item>خميستي</item>
+        <item>القليعة</item>
+        <item>لارهاط</item>
+        <item>مناصر</item>
+        <item>مراد</item>
+        <item>مسلمون</item>
+        <item>الناظور</item>
+        <item>سيدي عمار</item>
+        <item>سيدي غيلاس</item>
+        <item>سيدي راشد</item>
+        <item>سيدي سميان</item>
+        <item>تيبازة</item>
+    </string-array>
+    <string-array name="W43">
+        <item>عميرة الرأس</item>
+        <item>عين البيضاء حريش</item>
+        <item>عين الملوك</item>
+        <item>أحمد راشدي</item>
+        <item>عين التين</item>
+        <item>بن يحيى عبد الرحمان</item>
+        <item>بوحاتم</item>
+        <item>الشيقارة</item>
+        <item>شلغوم العيد</item>
+        <item>دراحي بوصلاح</item>
+        <item>العياضي برباس</item>
+        <item>المشيرة</item>
+        <item>فرجيوة</item>
+        <item>القرارم قوقة</item>
+        <item>حمالة</item>
+        <item>ميلة</item>
+        <item>مينار زرزة</item>
+        <item>وادي العثمانية</item>
+        <item>وادي النجاء</item>
+        <item>أولاد خلوف</item>
+        <item>وادي سقان</item>
+        <item>الرواشد</item>
+        <item>سيدي خليفة</item>
+        <item>سيدي مروان</item>
+        <item>تاجنانت</item>
+        <item>ترعي باينان</item>
+        <item>التلاغمة</item>
+        <item>تسدان حدادة</item>
+        <item>تبرقنت</item>
+        <item>تسالة لمطاعي</item>
+        <item>يحيى بن قشة</item>
+        <item>زغاية</item>
+    </string-array>
+    <string-array name="W44">
+        <item>﻿عين بويحيى</item>
+        <item>عين الدفلى</item>
+        <item>عين لشياخ</item>
+        <item>عين بنيان</item>
+        <item>عريب</item>
+        <item>عين سلطان</item>
+        <item>عين تركي</item>
+        <item>بن علال</item>
+        <item>بربوش</item>
+        <item>برج الأمير خالد</item>
+        <item>بومدفع</item>
+        <item>بلعاص</item>
+        <item>بئر أولاد خليفة</item>
+        <item>بوراشد</item>
+        <item>بطحية</item>
+        <item>جليدة</item>
+        <item>جندل</item>
+        <item>جمعة ولاد الشيخ</item>
+        <item>العبادية</item>
+        <item>حسينية</item>
+        <item>الماين</item>
+        <item>العامرة</item>
+        <item>العطاف</item>
+        <item>الحسنية</item>
+        <item>حمام ريغة</item>
+        <item>خميس مليانة</item>
+        <item>المخاطرية</item>
+        <item>مليانة</item>
+        <item>واد الشرفاء</item>
+        <item>وادي الجمعة</item>
+        <item>الروينة</item>
+        <item>سيدي الأخضر</item>
+        <item>تيبركانين</item>
+        <item>طارق بن زياد</item>
+    </string-array>
+    <string-array name="W45">
+        <item>عين بن خليل</item>
+        <item>عسلة</item>
+        <item>عين الصفراء</item>
+        <item>جنين بورزق</item>
+        <item>البيوض</item>
+        <item>القصدير</item>
+        <item>مكمن بن عمار</item>
+        <item>المشرية</item>
+        <item>مغرار</item>
+        <item>النعامة</item>
+        <item>صفيصيفة</item>
+        <item>تيوت</item>
+    </string-array>
+    <string-array name="W46">
+        <item>عين الاربعاء</item>
+        <item>عين الطلبة</item>
+        <item>آغلال</item>
+        <item>عين الكيحل</item>
+        <item>عقب الليل</item>
+        <item>عين تموشنت</item>
+        <item>بني صاف</item>
+        <item>بوزجار</item>
+        <item>شعبة اللحم</item>
+        <item>شنتوف</item>
+        <item>العامرية</item>
+        <item>عبد القادر الجزائري</item>
+        <item>المالح</item>
+        <item>امسعيد</item>
+        <item>الحساسنة</item>
+        <item>حمام بوحجر</item>
+        <item>حاسى الغلة</item>
+        <item>وادي برقش</item>
+        <item>ولهاصة</item>
+        <item>اولاد بوجمعة</item>
+        <item>اولاد الكيحل</item>
+        <item>وادي الصباح</item>
+        <item>سيدي بن عدة</item>
+        <item>شعيب أبو مدين</item>
+        <item>سيدي أورياش</item>
+        <item>سيدي الصافي</item>
+        <item>تامزوغة</item>
+        <item>تارقة</item>
+    </string-array>
+    <string-array name="W47">
+        <item>بريان</item>
+        <item>بنورة</item>
+        <item>ضاية بن ضحوة</item>
+        <item>العطف</item>
+        <item>القرارة</item>
+        <item>المنيعة</item>
+        <item>غرداية</item>
+        <item>حاسي الفحل</item>
+        <item>حاسي القارة</item>
+        <item>منصورة</item>
+        <item>متليلي</item>
+        <item>سبسب</item>
+        <item>زلفانة</item>
+    </string-array>
+    <string-array name="W48">
+        <item>عمي موسى</item>
+        <item>عين الرحمة</item>
+        <item>عين طارق</item>
+        <item>بلعسل</item>
+        <item>بني درقن</item>
+        <item>بن داود</item>
+        <item>بني زنطيس</item>
+        <item>دار بن عبد الله</item>
+        <item>جديوية</item>
+        <item>الحمادنة</item>
+        <item>القطار</item>
+        <item>المطمر</item>
+        <item>الولجة</item>
+        <item>الحاسي</item>
+        <item>حمري</item>
+        <item>حد الشكالة</item>
+        <item>القلعة</item>
+        <item>لحلاف</item>
+        <item>مازونة</item>
+        <item>مديونة</item>
+        <item>تل الربع</item>
+        <item>المرجة</item>
+        <item>واد الجمعة</item>
+        <item>واد السلام</item>
+        <item>وادي ارهيو</item>
+        <item>اولاد سيد الميهوب</item>
+        <item>واريزان</item>
+        <item>اولاد يعيش</item>
+        <item>الرمكة</item>
+        <item>غليزان</item>
+        <item>سيدي امحمد بن علي</item>
+        <item>سوق الحد</item>
+        <item>سيدي خطاب</item>
+        <item>سيدي لزرق</item>
+        <item>سيدي امحمد بن عودة</item>
+        <item>سيدي سعادة</item>
+        <item>يلل</item>
+        <item>زمورة</item>
+    </string-array>
+</resources>
